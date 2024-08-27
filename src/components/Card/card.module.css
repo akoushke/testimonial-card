@@ -1,0 +1,35 @@
+.card {
+  background-color: #ffffff;
+  margin-top: 200px;
+  padding: 24px;
+  width: 340px;
+}
+
+.header {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.meta {
+  margin-left: 16px;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.content {
+  font-size: 18px;
+}
+
+.handle {
+  font-size: 14px;
+  font-family: "Noto Sans";
+}
+
+.avatar {
+  border-radius: 50%;
+  height: 48px;
+  width: 48px;
+}
